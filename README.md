@@ -14,17 +14,18 @@ This tutorial outlines the configuration of the open-source help desk ticketing 
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
-
-<h2>Configuration Objectives</h2>
-
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Windows 10</b> 
 
 <h2>Configuration Steps</h2>
+
+- Item 1: Create Roles for Agents 
+- Item 2: Configure Settings for each Department
+- Item 3: Create Teams  
+- Item 4: Allow anyone to Create Tickets
+- Item 5: Create New Accounts for Agents and New Accounts for Customers
+- Item 6: Configure SLA
+
+<h2>Create Roles for Agents</h2>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
